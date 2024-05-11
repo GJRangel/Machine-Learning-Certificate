@@ -16,7 +16,7 @@ The IBM Machine Learning Professional Certificate is designed to provide a compr
 2. **Project 2:** [Fat prediction with regression]
    - Description: In this report we utilize the ‘Extended Body Fat Dataset’ to predict the body fat using different regression models. Before performing any regression model we explore the data in order to clean it and apply feature engineering techniques that allows for a better performance. Finally we compare different regression models with unseen data.
    - Code: [Fat prediction with regression code](https://github.com/GJRangel/Machine-Learning-IBM-Professional-Certificate/blob/main/Project%20Codes/data/Supervised%20Learning%20Regression%20Project.ipynb)
-   - Report: [Fat prediction with regression report]https://github.com/GJRangel/Machine-Learning-IBM-Professional-Certificate/blob/main/Honors%20Projects/Supervised%20Machine%20Learning_Regression_project.pdf)
+   - Report: [Fat prediction with regression report](https://github.com/GJRangel/Machine-Learning-IBM-Professional-Certificate/blob/main/Honors%20Projects/Supervised%20Machine%20Learning_Regression_project.pdf)
 
 3. **Project 3:** [Diabetes classification]
    - Description: Brief description of the project.

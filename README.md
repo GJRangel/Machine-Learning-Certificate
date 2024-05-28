@@ -1,10 +1,10 @@
-# IBM Machine Learning Professional Certificate
+# Machine Learning Certificate
 
-Welcome to the repository for my IBM Machine Learning Professional Certificate projects. This repository contains all the code, reports, datasets, and supplementary materials related to the projects completed as part of the certification.
+Welcome to the repository for my Machine Learning Certificate projects. This repository contains all the code, reports, datasets, and supplementary materials related to the projects completed as part of the certification.
 
 ## Certificate Overview
 
-The IBM Machine Learning Professional Certificate is designed to provide a comprehensive understanding of machine learning and its practical applications. It covers a range of topics including supervised and unsupervised learning, model evaluation, and deployment strategies.
+The Machine Learning Certificate is designed to provide a comprehensive understanding of machine learning and its practical applications. It covers a range of topics including supervised and unsupervised learning, model evaluation, and deployment strategies.
 
 ## Projects Included
 

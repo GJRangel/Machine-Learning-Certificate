@@ -19,13 +19,22 @@ The Machine Learning Certificate is designed to provide a comprehensive understa
    - Report: [Fat prediction with regression report](https://github.com/GJRangel/Machine-Learning-IBM-Professional-Certificate/blob/main/Honors%20Projects/Supervised%20Machine%20Learning_Regression_project.pdf)
 
 3. **Project 3:** [Diabetes classification]
-   - Description: Brief description of the project.
+   - Description: In this model we utilize 
    - Code: [Diabetes classification code](https://github.com/GJRangel/Machine-Learning-IBM-Professional-Certificate/blob/main/Project%20Codes/data/Supervised%20ML%20Class%20project.ipynb)
    - Report: [Diabetes classification report](https://github.com/GJRangel/Machine-Learning-IBM-Professional-Certificate/blob/main/Honors%20Projects/Supervised_ML__Classification_project.pdf)
 
+4. **Project 4:** [Anime Recommendation Clustering]
+   - Description: In this project, I leverage the `Anime Recommendation Database 2020' from Kaggle to develop a recommendation model using unsupervised clustering algorithms. I employ three distinct models and compare their performance. Prior to modeling, the data undergoes cleaning and transformation to enhance the system's effectiveness.
+   - Code: [Anime Recommendation Clustering](https://github.com/GJRangel/Machine-Learning-Certificate/blob/main/Projects/Anime%20Recommendation.ipynb)
+   - Report: [Anime Recommendation Report](https://github.com/GJRangel/Machine-Learning-Certificate/blob/main/Projects/Reports/Unsupervised_ML_project.pdf)
+  
+5. **Project 5:** [Hand-Sign Recognition with CNN]
+   - Description: In this project, I utilize pytorch to create convolutional neural networks to classify hand-sign alphabet (excluding 'j' and 'z' which are movements). I utilize different regulation techniques such as dropout and data augmentation. Finally I compare all models and performance, mainly accuracy and loss.
+   - Code: [Hand-Sign Recognition code](https://github.com/GJRangel/Machine-Learning-Certificate/blob/main/Projects/Hand-Sign-Recognition.ipynb)
+   - Report: Unavailable
+   
 ## Repository Structure
 
-- **/Images**: Includes images and visualizations generated during analysis.
 - **/Learning Codes**: Contains codes with purpose of understanding some ML models.
 - **/Project**: Contains the datasets, reports and codes of each project.
 
@@ -36,5 +45,10 @@ To explore the projects and materials included in this repository, simply naviga
 ## About Me
 
 My name is Gilberto Juárez, glad to meet you. I'm an applied physics engineer with passion in Data Science, Machine Learning and Quantum Computing!!! Here is my linkedin profile if interested to get in contact: 
+[Gilberto Juárez Rangel](https://www.linkedin.com/in/gilberto-ju%C3%A1rez-rangel-396b19212/)
+
+
+
+
 - https://www.linkedin.com/in/gilberto-ju%C3%A1rez-rangel-396b19212/
 
